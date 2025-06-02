@@ -1,9 +1,12 @@
 # 📂 **Palo Alto Network Security Labs (README)**
 
+```Markdown
+# Palo Alto Network Security Labs
+
 This repository contains hands-on Palo Alto firewall security labs designed to reinforce
 real-world network security concepts across enterprise firewall deployments.
 All labs are structured to simulate scenarios encountered by network security engineers.
-
+```
 ---
 
 ## Lab Categories
@@ -17,7 +20,7 @@ All labs are structured to simulate scenarios encountered by network security en
   
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```markdown
 # /palo-alto-network-security-labs
